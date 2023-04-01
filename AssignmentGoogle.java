@@ -24,10 +24,7 @@ public class AssignmentGoogle {
 	  Thread.sleep(2000);
 	  
 	  
-	  //Actions act=new Actions(driver);
-	 // act.sendKeys(Keys.CONTROL).perform();
-	  //gamil.sendKeys(Keys.CONTROL);
-	// gamil.click();
+	  
 	 String s=Keys.chord(Keys.CONTROL, Keys.ENTER);
 	 gamil.sendKeys(s);
 	 
