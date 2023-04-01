@@ -52,7 +52,7 @@ public class AssignmentGoogle {
 
   @AfterMethod
   public void afterMethod() {
-	  //driver.quit();
+	  driver.quit();
   }
 
 }
